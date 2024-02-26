@@ -27,7 +27,7 @@ This project aims to simplify the job application process by providing a well-de
 
 Feel free to explore, contribute, and utilize this project for your job application needs. Your feedback is valuable!
 
-🌐 Explore the live project [https://naitikjpatel.github.io/Job-Application-Form/](#).
+🌐 Explore the live project [Click Here](https://naitikjpatel.github.io/Job-Application-Form/).
 
 Happy applying! 🚀✨
 
